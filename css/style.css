@@ -1,5 +1,4 @@
 .nuts {
-  /*  The fixed part makes it so that there are no white spots and it takes up the entire screen  */
   background: url("../img/squirrel.jpg") no-repeat center center fixed;
   background-size: cover;
 }
